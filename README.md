@@ -3,35 +3,40 @@
 #### 介绍
 give your girl a surprise,很用心的一组birthday网页，可以在过生日的时候发给那个ta哈哈哈哈，具体步骤我会在下面给出，包教包会，希望能为你提供一点帮助~
 
-#### 软件架构
-软件架构说明
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 将项目克隆到本地电脑
 
-#### 参与贡献
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427222343406.png" alt="image-20220427222343406" style="zoom:80%;" />
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+2. 打开项目目录
 
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427222507097.png" alt="image-20220427222507097" style="zoom:80%;" />
 
-#### 特技
+3. 直接用浏览器打开index.html，你会看到如下的首页
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427222620635.png" alt="image-20220427222620635" style="zoom:80%;" />
+
+4. 修改头像---替换img文件夹下的user.jpg即可
+
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427222929845.png" alt="image-20220427222929845" style="zoom:80%;" />
+
+5. 修改用户名跟密码（如图：admin  123   改一改）
+
+   ![image-20220427223043254](C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427223043254.png)
+
+6. 点击login进入下个页面
+
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427223237958.png" alt="image-20220427223237958" style="zoom:80%;" />
+
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427223318266.png" alt="image-20220427223318266" style="zoom:80%;" />
+
+7. 相册跟留言  又是两个独立的网页链接  里面的内容可以自行发挥修改
+
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427223443988.png" alt="image-20220427223443988" style="zoom:80%;" />
+
+   <img src="C:\Users\孙sir\AppData\Roaming\Typora\typora-user-images\image-20220427223515854.png" alt="image-20220427223515854" style="zoom:80%;" />
+
+   have a good time! bye~
