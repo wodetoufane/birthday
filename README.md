@@ -1,7 +1,7 @@
 # 生日快乐for Your dear girlfriend
 
 #### 介绍
-give your girl a surprise,很用心的一组birthday网页，可以在过生日的时候发给那个ta哈哈哈哈，具体步骤我会在下面给出，包教包会，希望能为你提供一点帮助~
+give your girl a surprise,很用心的一组birthday网页，可以在过生日的时候发给那个ta哈哈哈哈，喜欢的话给个star呗，嘻嘻~
 
 
 
